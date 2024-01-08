@@ -1,10 +1,5 @@
 function App() {
-  return (
-    <>
-      
-
-    </>
-  )
+  return <h1>Crypto App</h1>;
 }
 
-export default App
+export default App;
